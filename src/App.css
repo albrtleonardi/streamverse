@@ -1,0 +1,29 @@
+.home-background {
+  background-color: hsla(280, 0%, 100%, 1);
+  background-image: radial-gradient(
+      at 95% 5%,
+      HSLA(280, 73%, 60%, 1) 0px,
+      transparent 20%
+    ),
+    radial-gradient(at 20% 27%, hsla(36, 100%, 50%, 0.4) 0px, transparent 40%);
+}
+
+.purple-gradient {
+  background: linear-gradient(
+    143.05deg,
+    rgba(235, 235, 235, 0.175) 1.13%,
+    rgba(255, 255, 255, 0.346766) 1.13%,
+    rgba(163, 120, 255, 0.5) 37.41%,
+    rgba(255, 255, 255, 0.5) 93.86%
+  );
+}
+
+.yellow-gradient {
+  background: linear-gradient(
+    143.05deg,
+    rgba(235, 235, 235, 0.1225) 1.13%,
+    rgba(255, 255, 255, 0.242736) 2.22%,
+    rgba(255, 154, 0, 0.35) 13.31%,
+    rgba(255, 255, 255, 0.35) 100%
+  );
+}
